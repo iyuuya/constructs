@@ -94,7 +94,7 @@
     "jsii-diff": "^1.1.0",
     "jsii-pacmak": "^1.1.0",
     "jsii-release": "^0.1.5",
-    "standard-version": "^7.1.0",
+    "standard-version": "^8.0.1",
     "ts-jest": "^25.3.0"
   },
   "homepage": "https://github.com/aws/constructs",
